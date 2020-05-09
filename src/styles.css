@@ -1,0 +1,26 @@
+
+body {
+  background-color: #f1f1f1;
+  font-size: 17px;
+}
+
+.form {
+  background-color: #ffffff;
+  font-family: Raleway;
+  margin: 60px auto;
+  padding: 40px;
+  width:70%;
+  min-width: 300px;
+}
+
+
+select {
+  padding: 10px;
+  width: 100%;
+  font-size: 17px;
+  font-family: Raleway;
+  border: 1px solid #aaaaaa;
+}
+
+td,th{padding-left: 10px;
+}

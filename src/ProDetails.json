@@ -1,0 +1,128 @@
+[
+  {
+    "id": "1",
+    "product": "Realme 6",
+    "price": "14000",
+    "cod": "Yes",
+    "category": "Mobiles"
+  },
+  {
+    "id": "2",
+    "product": "Redmi 5",
+    "price": "6000",
+    "cod": "No",
+    "category": "Mobiles"
+  },
+  {
+    "id": "3",
+    "product": "Samsung S9",
+    "price": "25000",
+    "cod": "Yes",
+    "category": "Mobiles"
+  },
+  {
+    "id": "4",
+    "product": "Reactjs",
+    "price": "6500",
+    "cod": "Yes",
+    "category": "Books"
+  },
+  {
+    "id": "5",
+    "product": "Blockchain With Projects",
+    "price": "13000",
+    "cod": "No",
+    "category": "Books"
+  },
+  {
+    "id": "6",
+    "product": "Data Structures With Video Accesss",
+    "price": "25000",
+    "cod": "No",
+    "category": "Books"
+  },
+  {
+    "id": "7",
+    "product": "NFS",
+    "price": "5555",
+    "cod": "Yes",
+    "category": "Games"
+  },
+  {
+    "id": "8",
+    "product": "Call of Duty",
+    "price": "1500",
+    "cod": "Yes",
+    "category": "Games"
+  },
+  {
+    "id": "9",
+    "product": "CounterStrike",
+    "price": "26000",
+    "cod": "No",
+    "category": "Games"
+  },
+  {
+    "id": "10",
+    "product": "Vivo U10 ",
+    "price": "9900",
+    "cod": "Yes",
+    "category": "Mobiles"
+  },
+  {
+    "id": "11",
+    "product": "Samsung Galaxy M30 ",
+    "price": "12999",
+    "cod": "No",
+    "category": "Mobiles"
+  },
+  {
+    "id": "12",
+    "product": "OnePlus 7 Pro",
+    "price": "43000",
+    "cod": "Yes",
+    "category": "Mobiles"
+  },
+  {
+    "id": "13",
+    "product": "Gate CSE",
+    "price": "2500",
+    "cod": "Yes",
+    "category": "Books"
+  },
+  {
+    "id": "14",
+    "product": "CSE Interviews",
+    "price": "15000",
+    "cod": "Yes",
+    "category": "Books"
+  },
+  {
+    "id": "15",
+    "product": "Machine Learning Projects",
+    "price": "21000",
+    "cod": "No",
+    "category": "Books"
+  },
+  {
+    "id": "16",
+    "product": "PUBG",
+    "price": "25000",
+    "cod": "No",
+    "category": "Games"
+  },
+  {
+    "id": "17",
+    "product": "FreeFire",
+    "price": "15555",
+    "cod": "Yes",
+    "category": "Games"
+  },
+  {
+    "id": "18",
+    "product": "GTA Vice City",
+    "price": "9500",
+    "cod": "No",
+    "category": "Games"
+  }
+]
