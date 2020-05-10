@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Multi-Select-Filter/static/css/main.d5e299e8.chunk.css",
+    "main.js": "/Multi-Select-Filter/static/js/main.59e7ce9b.chunk.js",
+    "main.js.map": "/Multi-Select-Filter/static/js/main.59e7ce9b.chunk.js.map",
+    "runtime~main.js": "/Multi-Select-Filter/static/js/runtime~main.20325ebf.js",
+    "runtime~main.js.map": "/Multi-Select-Filter/static/js/runtime~main.20325ebf.js.map",
+    "static/js/2.4cbfd1a3.chunk.js": "/Multi-Select-Filter/static/js/2.4cbfd1a3.chunk.js",
+    "static/js/2.4cbfd1a3.chunk.js.map": "/Multi-Select-Filter/static/js/2.4cbfd1a3.chunk.js.map",
+    "index.html": "/Multi-Select-Filter/index.html",
+    "precache-manifest.dfcfac6692240a861ba2c8f204c6583d.js": "/Multi-Select-Filter/precache-manifest.dfcfac6692240a861ba2c8f204c6583d.js",
+    "service-worker.js": "/Multi-Select-Filter/service-worker.js",
+    "static/css/main.d5e299e8.chunk.css.map": "/Multi-Select-Filter/static/css/main.d5e299e8.chunk.css.map"
+  }
+}
