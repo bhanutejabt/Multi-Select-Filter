@@ -6,3 +6,5 @@ Multi Select Filter In Reactjs
 - Install the required packages using cmd ( <b><i>npm install</i></b> )
 - Run the app ( <b><i>npm start</i></b> )
 - Open app in localhost url
+
+or Live Demo in link https://bhanutejabt.github.io/Multi-Select-Filter/
